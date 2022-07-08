@@ -6,7 +6,11 @@ Halo Semuanya, Saat ini saya sendang mengembangkan time series prediction untuk 
 
 Untuk inputan sendiri saya menggunakan indikator teknikal yaitu Moving Average, Relative Strength Index, Moving Average Convergence/Divegence, Bollinger Bands dan juga inputan lain. 
 
-link untuk sampel prediksi secara realtime
+link interface untuk sampel prediksi secara realtime
+```sh
+http://fanfan.my.id/crypto/index.html
+```
+link api untuk sampel prediksi secara realtime
 ```sh
 https://fanfan-api.deta.dev/docs
 
