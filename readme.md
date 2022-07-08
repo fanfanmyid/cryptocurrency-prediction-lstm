@@ -16,7 +16,7 @@ https://fanfan-api.deta.dev/docs
 
 input :
 timeframe : 1m, 5m dan 15m
-limit : default 6 dan max 1000
+limit : default 5 dan max 1000
 ```
 
 dengan flowchart pembuatan model
