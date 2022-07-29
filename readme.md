@@ -21,7 +21,7 @@ limit : default 5 dan max 1000
 
 dengan flowchart pembuatan model
 
-![alt text](https://i.ihttps://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/flowchart.png?raw=true)
+![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/flowchart.png?raw=true)
 
 yang kemudian pada pengujian realtime data menggunakan api store dan juga untuk melihat prediksi terdapat api get yang dapat digunakan
 
