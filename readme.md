@@ -1,14 +1,14 @@
 # Cryptocurrency Price Prediction using Long Short Term Memory (LSTM) short term cases (OnGoing Thesis)
 
 Halo Semuanya, Saat ini saya sendang mengembangkan time series prediction untuk cryptocurrency dengan tujuan : 
-- Menguji performa algoritma LSTM dalam memprediksi harga cryptocurrency (BTC, ETH dan BNB terhadap BUSD) dalam jangka pendek yatu dengan timeframe 1m,5m dan 15m
+- Menguji performa algoritma LSTM dan GRU dalam memprediksi harga cryptocurrency (BTC, ETH dan BNB terhadap BUSD) dalam jangka pendek yatu dengan timeframe 1m,5m dan 15m
 - Menguji performa algoritma dengan data realtime
 
 Untuk inputan sendiri saya menggunakan indikator teknikal yaitu Moving Average, Relative Strength Index, Moving Average Convergence/Divegence, Bollinger Bands dan juga inputan lain. 
 
 link interface untuk sampel prediksi secara realtime
 ```sh
-http://fanfan.my.id/crypto/index.html
+http://fanfan.my.id/crypto/
 ```
 link api untuk sampel prediksi secara realtime
 ```sh
