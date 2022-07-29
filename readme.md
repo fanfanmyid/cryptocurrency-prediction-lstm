@@ -31,7 +31,8 @@ untuk performa saat ini
 ![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/lstm_btc_1m.png?raw=true)
 ![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/gru_btc_1m.png?raw=true)
 
-
+Dengan summary hasil sebagai berikut
+![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/hasil_tabel.jpg?raw=true)
 mohon maaf saat ini sourcecode belum dishare dikarenaka masih tahap developement. untuk yang mau coba prediksinya bisa ke link diatas
 
 
