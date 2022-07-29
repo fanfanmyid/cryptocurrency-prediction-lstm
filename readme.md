@@ -28,15 +28,9 @@ yang kemudian pada pengujian realtime data menggunakan api store dan juga untuk 
 ![alt text](https://i.im.ge/2022/06/30/uSaXF0.png)
 
 untuk performa saat ini 
-![alt text](https://i.im.ge/2022/06/30/uSaEB1.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSaYym.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSa3sf.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSafBx.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSaJ1S.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSanmz.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSabHr.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSaCYP.jpg)
-![alt text](https://i.im.ge/2022/06/30/uSaVYG.jpg)
+![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/lstm_btc_1m.png?raw=true)
+![alt text](https://github.com/fanfanmyid/cryptocurrency-prediction-lstm/blob/master/image/gru_btc_1m.png?raw=true)
+
 
 mohon maaf saat ini sourcecode belum dishare dikarenaka masih tahap developement. untuk yang mau coba prediksinya bisa ke link diatas
 
